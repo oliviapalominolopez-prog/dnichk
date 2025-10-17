@@ -1,0 +1,4 @@
+cloudscraper
+python-telegram-bot
+asyncio
+requests
